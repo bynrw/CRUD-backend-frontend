@@ -1,0 +1,49 @@
+.login-container {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-table {
+  font-size: 0.95rem;
+}
+
+.user-table th {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.user-table td {
+  vertical-align: middle;
+}
+
+.badge {
+  font-weight: 500;
+  font-size: 0.8rem;
+  padding: 0.4rem 0.6rem;
+}
+
+.table-responsive {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+code {
+  background: #f4f4f4;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.9rem;
+}
+
+.small {
+  font-size: 0.85rem;
+}
+
+button {
+  font-size: 0.9rem;
+  font-weight: 500;
+}

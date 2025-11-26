@@ -1,0 +1,13 @@
+com\example\entity\User.class
+com\example\dto\CreateUserRequest$CreateUserRequestBuilder.class
+com\example\entity\User$UserBuilder.class
+com\example\security\SecurityConfig.class
+com\example\controller\UserController.class
+com\example\dto\UserDTO$UserDTOBuilder.class
+com\example\dto\UpdateUserRequest.class
+com\example\repository\UserRepository.class
+com\example\dto\UpdateUserRequest$UpdateUserRequestBuilder.class
+com\example\dto\CreateUserRequest.class
+com\example\service\UserService.class
+com\example\UserManagementApplication.class
+com\example\dto\UserDTO.class
